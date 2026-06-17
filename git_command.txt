@@ -7,3 +7,23 @@ git remote add origin
 git remote set-url origin
 git branch
 git push origin master/main 
+
+
+- Repository = Project folder (local or remote)
+- Commit = Save a snapshot of your changes
+- Branch - Parallel version of your project
+- Merge = Combine branches 
+- Clone / Push/Pull = Sync local and remote repos
+
+Most Useful Git Commands (with purpose):
+
+git init: # Start a new Git repo
+git clone <url>: # Copy repo to your local system
+git status: # See current changes 
+git add.: # Stage all files for commit
+git commit -m "msg": # Save changes with message
+git push: # Upload changes to GitHub
+git pull: # Fetch latest from GitHüb 
+git branch: # List branches
+git checkout -b dev: # Create & switch to new branch
+git merge dev: # Merge dev into main
