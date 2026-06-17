@@ -1,4 +1,9 @@
 git init                                                                            
 git status                                                                          
 git add testing.py                                                                  
-git commit -m "stage intial files"    
+git commit -m "stage intial files"   
+git remote -v
+git remote add origin
+git remote set-url origin
+git branch
+git push origin master/main 
