@@ -7,3 +7,5 @@ git remote add origin
 git remote set-url origin
 git branch
 git push origin master/main 
+
+some new changes
